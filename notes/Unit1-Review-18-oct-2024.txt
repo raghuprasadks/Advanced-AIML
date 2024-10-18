@@ -1,0 +1,31 @@
+Module 3 - Revision
+
+1. What is a neural network.Compare this with biological neurans.
+
+Layers - 
+Input layer - each cell/pixel
+Hidden layer - identify the features
+Output layer - binary classification/multi class classification
+
+
+2. Difference between Machine learning and neural network(deep learning)
+
+Features are to be provided by us
+Input with output
+neural network - net work is basically identifies the 
+patterns
+
+3. Write diagram of an ANN and label various parts
+
+4. How artificial neural network learns
+
+5. Types of neural networks. Explain 
+6. Applications of neural networks. Advantage and disadvantage
+7. Back propagation
+8. Activation functions
+9. Gradient descent - 
+minimize the loss
+
+Expected - Actual =loss
+Minimize loss
+partial derivative
